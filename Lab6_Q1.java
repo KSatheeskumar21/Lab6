@@ -6,7 +6,7 @@ class Lab6_Q1 {
     }
 
     public static void printToHundred() {
-        for (int i=100; i >= 1; i--) {
+        for (int i=0; i <= 100; i++) {
             System.out.println(i);
         }
     }
